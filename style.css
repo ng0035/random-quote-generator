@@ -1,0 +1,28 @@
+body{
+  background-color: pink;
+}
+h1{
+  background-color: #FDE657;
+  font-family :"Comic Sans MS";
+}
+
+.para{
+  background-color: #884EA0  ;
+  color: white;
+  
+  
+}
+#white{
+font-color : blue;  
+width: 500px;
+height: 100px;
+background-color: white; 
+margin-top : 100px;  
+margin-left: 400px;
+border-color: #8E44AD;
+border-style: solid;  
+} 
+
+button{
+  margin-left: 600px;
+}
